@@ -1,0 +1,16 @@
+/* Normal native css
+scss
+inline css
+Component libraies-material ui , Base UI, Ant, chakra
+styled component 
+Tailwind Css Framwork
+->css on the go(in the same file)
+->reusability
+->less bundle size
+->flexible UI (Customization)
+*/
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
